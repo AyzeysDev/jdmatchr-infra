@@ -1,13 +1,13 @@
-# matchwise-infra
-⚙️ MatchWise Infra – Infrastructure setup for MatchWise including Docker, GitHub Actions CI/CD, and Kubernetes manifests for full-stack deployment on cloud platforms.
+# jdmatchr-infra
+⚙️ JDMatchR Infra – Infrastructure setup for JDMatchR including Docker, GitHub Actions CI/CD, and Kubernetes manifests for full-stack deployment on cloud platforms.
 
 
-# ⚙️ MatchWise Infra – Full-Stack Infrastructure Setup
+# ⚙️ JDMatchR Infra – Full-Stack Infrastructure Setup
 
-**MatchWise Infra** is the infrastructure layer for the [MatchWise](https://github.com/ayzeysdev/matchwise-ui) project — a resume and job description analyzer powered by OpenAI GPT-4o.
+**JDMatchR Infra** is the infrastructure layer for the [JDMatchR](https://github.com/ayzeysdev/jdmatchr-ui) project — a resume and job description analyzer powered by OpenAI GPT-4o.
 
 This repo includes:
-- 🐳 Dockerfiles for `matchwise-ui` and `matchwise-core`
+- 🐳 Dockerfiles for `jdmatchr-ui` and `jdmatchr-core`
 - 🔁 GitHub Actions CI/CD workflows
 - ☁️ Kubernetes manifests for cloud-native deployment (e.g., AWS EKS, GKE)
 - 🌐 Docker Compose for local development
